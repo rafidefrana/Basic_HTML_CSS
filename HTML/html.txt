@@ -1,0 +1,5 @@
+- HTML BUKAN BAHASA PEMOGRAMAN
+- bahasa markup
+- html adalah struktur
+- gaya tampilan web css
+- interaksi JS
